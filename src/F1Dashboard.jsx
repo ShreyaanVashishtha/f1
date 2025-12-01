@@ -1,0 +1,1 @@
+export default function F1Dashboard(){return <div class='p-6'>F1 Dashboard Loaded</div>}
